@@ -12,7 +12,7 @@ public class PasswordGeneratorUI extends JFrame {
     private JTextArea passwordArea;
 
     // Characters for password generation
-    private static final String UPPERCASE = "ABCDEFGHIJKLMNOPQRSTUVWXY";
+    private static final String UPPERCASE = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     private static final String LOWERCASE = "abcdefghijklmnopqrstuvwxyz";
     private static final String NUMBERS = "0123456789";
     private static final String SPECIAL_CHARS = "!@#$%^&*()-_=+<>?";
